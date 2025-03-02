@@ -11,6 +11,8 @@ This repository contains the implementation of the **Ransomware Early Detection 
 
 This project utilizes **machine learning models** to analyze network traffic and classify it as normal or malicious (DDoS, Ransomware). The dataset used for training contains various network attributes such as packet length, protocol type, and traffic flow metrics.
 
+![Image](https://github.com/user-attachments/assets/49286c6d-125b-4fd7-a542-8dd5ea9ecc23)
+
 ### Features:
 - Detects cyber threats in real time.
 - User-friendly web interface to input data and view predictions.
@@ -26,6 +28,8 @@ This project utilizes **machine learning models** to analyze network traffic and
 - package.json      # Frontend dependency manager
 - package-lock.json # Lock file for frontend dependencies
 ```
+
+![Image](https://github.com/user-attachments/assets/5ddf92a5-c30f-4786-9dd3-7eec32a8b300)
 
 ## Setup Instructions
 
