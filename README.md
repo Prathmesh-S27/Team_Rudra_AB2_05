@@ -54,7 +54,7 @@ This project utilizes **machine learning models** to analyze network traffic and
    ```
 3. Start the Flask API:
    ```sh
-   python app.py
+   python predict.py
    ```
 
 ## API Testing
